@@ -1,0 +1,28 @@
+name: PaxMundi Music
+favicon: null
+layout_spectrum: 0.995531739667058
+typography_spectrum: 0.46276071248576045
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7158051365986466
+  lightness: 0.09242392820306122
+  saturation: 0.5743521763943136
+  rhythmicContrast: 0.39042011578567326
+purpose: []
